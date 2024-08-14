@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1723652572 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.14 project\employee\src\employee.cpp
+	"Employee.h"
+	<iostream>
+
+1723652653 e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.14 project\employee\include\employee.h
+	<string>
+
+1723652753 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.14 project\employee\main.cpp
+	<iostream>
+	"Employee.h"
+

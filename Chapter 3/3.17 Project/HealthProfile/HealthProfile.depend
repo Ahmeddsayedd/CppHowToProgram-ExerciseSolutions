@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1723664427 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.17 project\healthprofile\healthprofile.cpp
+	"HealthProfile.h"
+	<iostream>
+	<string>
+
+1723664545 e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.17 project\healthprofile\include\healthprofile.h
+	<string>
+
+1723664528 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.17 project\healthprofile\main.cpp
+	<iostream>
+	"HealthProfile.h"
+

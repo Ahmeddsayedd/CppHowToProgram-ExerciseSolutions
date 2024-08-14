@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1722605463 source:e:\programming\c++\target-heart-rate calculator\main.cpp
+	<iostream>
+	"HeartRates.h"
+
+1722605241 e:\programming\c++\target-heart-rate calculator\include\heartrates.h
+	<iostream>
+	<string>
+
+1723657370 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.16 project\target-heart-rate calculator\main.cpp
+	<iostream>
+	"HeartRates.h"
+
+1723657065 e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.16 project\target-heart-rate calculator\include\heartrates.h
+	<string>
+

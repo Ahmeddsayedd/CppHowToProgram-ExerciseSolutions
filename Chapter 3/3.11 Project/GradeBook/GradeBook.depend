@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1723634874 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.11\gradebook\main.cpp
+	<iostream>
+	<GradeBook.h>
+
+1723634102 e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.11\gradebook\include\gradebook.h
+	<string>
+
+1723634414 source:e:\chapter exercises model answers - c++ how to program by deitel\chapter 3\3.11\gradebook\src\gradebook.cpp
+	"GradeBook.h"
+	<iostream>
+
