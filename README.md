@@ -9,7 +9,8 @@ This repository contains model answers and solutions to exercises from the book 
 - **Chapter 3**: Completed
 - **Chapter 4**: Completed
 - **Chapter 5**: Completed
-- **Chapter 6**: In Progress
+- **Chapter 6**: Completed
+- **Chapter 7**: In Progress
 
 ## Repository Structure
 
